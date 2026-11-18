@@ -1,3 +1,12 @@
 name: justin keirth S. turtal
 course: BSIT 2A
 Project: GitHub Desktop Practice
+
+
+my hobbies
+playing online games
+basketball
+valleyball
+
+my goal 
+to improve basic programing web development skills
